@@ -50,6 +50,7 @@ Output:
 
 
 Result:
+
 Thus, the program  that create a function to find the greatest number is verified successfully.
 
 
@@ -57,6 +58,7 @@ Thus, the program  that create a function to find the greatest number is verifie
 EXP NO:22 C PROGRAM TO PRINT THE MAXIMUM VALUES FOR THE AND, OR AND  XOR COMPARISONS
 
 Aim:
+
 To write a C program to print the maximum values for the AND, OR and XOR comparisons
 
 Algorithm:
@@ -121,6 +123,7 @@ is verified successfully.
 EXP NO:23 C PROGRAM TO WRITE THE LOGIC FOR THE REQUESTS
 
 Aim:
+
 To write a C program to write the logic for the requests
 
 Algorithm:
