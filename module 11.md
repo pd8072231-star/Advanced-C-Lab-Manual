@@ -45,6 +45,7 @@ int main()
 ```
 
 Output:
+
 <img width="426" height="430" alt="image" src="https://github.com/user-attachments/assets/5210f2a3-82ce-471f-841e-7c21e307ed5d" />
 
 
@@ -54,6 +55,7 @@ Thus, the program  that create a function to find the greatest number is verifie
 
  
 EXP NO:22 C PROGRAM TO PRINT THE MAXIMUM VALUES FOR THE AND, OR AND  XOR COMPARISONS
+
 Aim:
 To write a C program to print the maximum values for the AND, OR and XOR comparisons
 
@@ -107,6 +109,7 @@ int main()
 ```
 
 Output:
+
 <img width="415" height="475" alt="image" src="https://github.com/user-attachments/assets/4d566144-3e8d-400a-8d5a-ae2318c5db9a" />
 
 Result:
@@ -116,6 +119,7 @@ is verified successfully.
 
  
 EXP NO:23 C PROGRAM TO WRITE THE LOGIC FOR THE REQUESTS
+
 Aim:
 To write a C program to write the logic for the requests
 
@@ -168,6 +172,7 @@ int main()
 }
 ```
 Output:
+
 <img width="426" height="333" alt="image" src="https://github.com/user-attachments/assets/2bd6c222-e4a2-4095-9731-7bd19cba4787" />
 
 
@@ -178,6 +183,7 @@ Thus, the program to write the logic for the requests is verified successfully.
 
  
 EXP NO:24 C PROGRAM PRINT THE SUM OF THE INTEGERS IN THE ARRAY.
+
 Aim:
 To write a C program print the sum of the integers in the array.
 
@@ -212,6 +218,7 @@ int main()
 }
 ```
 Output:
+
 <img width="1053" height="272" alt="image" src="https://github.com/user-attachments/assets/3f2cd6bf-b7b9-4370-91de-daa062e7aa35" />
 
 
